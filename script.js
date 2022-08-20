@@ -11,5 +11,5 @@ function rollImages() {
   
   images[imgIndex-1].style.display = "block";  
   
-  setTimeout(rollImages, 3000);
+  setTimeout(rollImages, 2000);
 }
